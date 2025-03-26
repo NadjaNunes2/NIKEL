@@ -64,7 +64,7 @@ function logout(){
 function getCashIn(){
   const transactions = data.transactions
 
-  
+  console.log(transactions)
 }
 
 function saveData(data){
